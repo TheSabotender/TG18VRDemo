@@ -1,0 +1,18 @@
+{
+    "levelName": "tapio",
+    "subname": "systems",
+    "difficulty": 1,
+    "logo": 3,
+    "font": 1,
+    "color": {
+        "r": 0.0,
+        "g": 0.627586305141449,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "starPosition": {
+        "x": -153.89999389648438,
+        "y": 73.0
+    },
+    "prefab": 1
+}

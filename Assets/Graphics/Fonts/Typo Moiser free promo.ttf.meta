@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5a3945a67b52e7d4cbf7d961e227b634
+timeCreated: 1514911664
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Moiser
+  fontNames:
+  - Moiser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

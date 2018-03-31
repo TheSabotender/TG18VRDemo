@@ -1,0 +1,18 @@
+{
+    "levelName": "rocchio",
+    "subname": "dynamics",
+    "difficulty": 2,
+    "logo": 1,
+    "font": 2,
+    "color": {
+        "r": 1.0,
+        "g": 0.26600000262260439,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "starPosition": {
+        "x": 92.9000015258789,
+        "y": -104.0
+    },
+    "prefab": 1
+}

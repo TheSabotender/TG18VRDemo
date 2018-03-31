@@ -1,0 +1,18 @@
+{
+    "levelName": "Bøen",
+    "subname": "Industries",
+    "difficulty": 0,
+    "logo": 0,
+    "font": 7,
+    "color": {
+        "r": 0.0,
+        "g": 0.3529999852180481,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "starPosition": {
+        "x": -519.0,
+        "y": -227.0
+    },
+    "prefab": 0
+}
